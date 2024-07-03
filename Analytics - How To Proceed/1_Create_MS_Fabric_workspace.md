@@ -1,4 +1,4 @@
-[**Back to the Readme section**](/Readme.md)
+[**Back to the Readme section**](/README.md)
 
 # Create a workspace
 
