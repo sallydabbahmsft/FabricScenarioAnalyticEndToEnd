@@ -38,9 +38,10 @@ HowYou will learn how to import data from Csv files using a Data Flow Gen 2 in M
    
 5. From the **Preview file data** page, preview the data and select Create to proceed and return back to the dataflow canvas.
    
-6. In the **Query settings** pane, enter **dimension_customer** for the Name field. From the menu items, select Add data destination and select **Lakehouse**.
-    ![Query settings](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/b471ac20-06b7-48f3-a359-dcd13091601f)
+6. In the **Data destination** pane, click on **Settings** 
+  ![datadestination](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/c7da1f90-5ec7-46d9-9609-956cae1f2919)
 
+   
 7. If needed, from the **Connect to data destination** screen, sign into your account. Select **Next**.
    
 8. Navigate to the **bronze** in your workspace.
