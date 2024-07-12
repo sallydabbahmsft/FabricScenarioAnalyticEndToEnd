@@ -4,6 +4,8 @@
 
 From the previous tutorial steps, we have raw data ingested from the source to the Files section of the lakehouse. Now you can transform that data and prepare it for creating delta tables.
 
+The Lakehouse in Microsoft Fabric provides a feature to efficiently load common file types to an optimized Delta table ready for analytics. The Load to Table feature allows users to load a single file or a folder of files to a table. This feature increases productivity for data engineers by allowing them to quickly use a right-click action to enable table loading on files and folders. Loading to the table is also a no-code experience, which lowers the entry bar for all personas.
+
 1. Download the notebooks from the [Lakehouse Tutorial Source Code](/Notebooks/) folder.
 
 2. Select **Import notebook** from the **+New** section at the top of the landing page.</br>  
