@@ -19,17 +19,21 @@ From the previously created Workspace, select Lakehouse to create a lakehouse
    ![image](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/deea6bc2-184d-4262-a7d2-b1c28c9e4c7d)
 
 3. Select the **Silver** warehouse and click on **Next**</br>  
-   ![image](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/bb9d125e-fb40-4df4-89b5-3b63ff3ccdd3)
+   ![image](https://github.com/user-attachments/assets/bd0d23ea-6125-4e64-8b88-d1185248a306)
+
 
 4. Select all the tables and click on **Next**</br>  
-   ![image](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/1fb7d2fb-451b-4d1e-995c-4b89bb5ef885)
+  ![image](https://github.com/user-attachments/assets/64f716f8-ff7c-4ea6-8251-ce9977e5bf76)
+
 
 5. Rename the shortcuts as per the image below and click **Create**</br>  
-  ![image](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/3b83a22d-efcb-4efb-bcd1-6f3ce4b71a91)
+ ![image](https://github.com/user-attachments/assets/e6f5ce77-9605-434c-a22a-354b0243174f)
+
 
 
 6. Validate the shortcuts, they appear in the **Tables** section and can be used in the **Notebooks** as well as in **SELECT commands** using the **Sql Endpoint**</br>  
-   ![image](https://github.com/sallydabbahmsft/FabricScenarioAnalyticEndToEnd/assets/105279899/713984d8-de91-4030-a539-db4e6a6d6599)
+  ![image](https://github.com/user-attachments/assets/f22705a7-6e72-4b55-92e7-bbc8d6913039)
+
 
 7. In the lakehouse view, select Open notebook > Existing notebook from the ribbon and choose [02 - Data Transformation - Business Aggregates](/Notebooks/02%20-%20Data%20Transformation%20-%20Business%20Aggregates.ipynb). 
 
